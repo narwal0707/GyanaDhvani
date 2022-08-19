@@ -1,0 +1,26 @@
+Welcome to GyanaDhvani!!
+
+GyanaDhvvni is a completely offline screen reader software developed in Python3.
+
+Designed with the aim of extending the pleasue of reading to our visually challenged friends,GyanaDhvani provides a text to speech conversion or PDF files or any file with text.
+
+GyanaDhvani provides 2 features for screen reading,
+First, a direct approach, wherein, the contents of the slected book are read directly
+Second, where the contents are converted to a .mp3 file and are palyed as well a stored fo future reference.
+
+Here's how to use 
+
+1)Open the app and select your book.
+
+2)A new dialogue box would appear, asking for your choice
+	Select convert to mp3 and play if you want to have a fully offline audiobook.
+	(recommended for larger number of pages)
+
+	Select start reading for immediate reading.
+	(recommended for 1 to 2 pages as no copy would be generated)
+
+3)After selcting mode of reading, feed your page numbers and hit start and Boom you go!
+	(please ensure that page numbers should be those which appear on the top of the pdf viewer)
+
+
+Happy Reading!!!  

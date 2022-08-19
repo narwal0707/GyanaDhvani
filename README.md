@@ -1,2 +1,3 @@
-# GyanaDhvani
-Python based pdf to mp3 converter
+GyanaDhvani is a text to speech pdf reader software developed solely in python3.
+
+
